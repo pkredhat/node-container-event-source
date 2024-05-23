@@ -12,6 +12,7 @@
     "axios": "^1.7.2",
     "body-parser": "^1.20.2",
     "cloudevents": "^8.0.0",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3"
   }
 }
